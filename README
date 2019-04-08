@@ -1,0 +1,13 @@
+Name: Viraj Lunani, Josh Dresner
+netID: vkl22, jmd527
+    This program models friendships between people and allows the people to ask for and give books.
+The program creates people and then adds friends to those people, it also adds books to those people.
+Note that one can only borrow a book from someone he/she is friends with. When a person wants to ask
+for a book they essentially type in a "keyword", which then compares to the description of each book that
+person's friends have. The description of a book is just a string in this format "title, author, genre".
+It then displays a list of all the matches. There are some things I would like to improve. For one, when
+it is displaying the list of all matches it only shows the books name, I would like to display the entire
+description as well as the edition to account for books in a series or books with the same name. I would
+also like to add in a breath first search, that searches through the friends, and then the friends friends
+next, and then the friends friends friends after, and so on. This would require a recursive method in the
+Person class.
