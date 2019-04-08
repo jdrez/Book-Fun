@@ -1,5 +1,4 @@
-Name: Viraj Lunani, Josh Dresner
-netID: vkl22, jmd527
+Name: Josh Dresner
     This program models friendships between people and allows the people to ask for and give books.
 The program creates people and then adds friends to those people, it also adds books to those people.
 Note that one can only borrow a book from someone he/she is friends with. When a person wants to ask
